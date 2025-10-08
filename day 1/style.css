@@ -4,6 +4,8 @@
             }
             input{
                 border-radius: 80px;
+                width: 60rem !important;
+                padding:40px !important;
             }
             .w3-row-padding img {
                 margin-bottom: 12px;
@@ -21,4 +23,22 @@
                     #main {
                         margin-left: 0;
                     }
+            }
+            #img1{
+                width:100%;
+            }
+            .lien1{
+                width:25% !important;
+            }
+            .n1{
+                height:28px;
+                width:95%;
+            }
+            .n2{
+                height:28px;
+                width:85%;
+            }
+            .n3{
+                height:28px;
+                width:80%;
             }
